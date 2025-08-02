@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904139019225",
+    "project_id": "pinguapp-c65c4",
+    "storage_bucket": "pinguapp-c65c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904139019225:android:be36eb3bbadb3cf5777fc8",
+        "android_client_info": {
+          "package_name": "com.jwardbond.pingu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfXKaxMVLzyOswCl-BuJTXuEBYCiNef0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
